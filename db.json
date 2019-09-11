@@ -1,9 +1,13 @@
 {
-  "id": 1,
-  "firstName": "Yarko",
-  "lastName": "Sumyk",
-  "email": "yarko.sumyk@gmail.com",
-  "city": "Lviv",
-  "state": "Ukraine",
-  "zip": "0634903913"
+  "user": [
+    {
+      "id": 1,
+      "firstName": "Yarko",
+      "lastName": "Sumyk",
+      "email": "yarko.sumyk@gmail.com",
+      "city": "Lviv",
+      "state": "Ukraine",
+      "zip": "0634903913"
+    }
+  ]
 }
